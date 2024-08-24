@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## Introduction
+
 
 **alexmalish24/alexmalish24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+
+## Projects
+
+
+
+## Demos
+
+This is a funny face:
+
+![](https://i.gifer.com/embedded/download/4j.gif)
